@@ -6,4 +6,4 @@ tkinter is used for the designing of the application using the grid function
 
 ```
 # Screenshot
-![alt https://github.com/tbtanmay111/resturant-management/blob/master/Untitled.png]
+![alt text]https://github.com/tbtanmay111/resturant-management/blob/master/Untitled.png
